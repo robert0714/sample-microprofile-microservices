@@ -1,3 +1,13 @@
 # Project exclude paths
 /department-service/target/
 /employee-service/target/
+.project
+.settings/
+.vscode/
+*/.project
+*/.settings/
+*/.vscode/
+*/.classpath
+*/.factorypath
+/.classpath
+/.factorypath
